@@ -28,3 +28,26 @@ aside {
     color: antiquewhite;
     border:6px solid black;
 }
+
+main {
+    background-color: antiquewhite;
+    border: 6px solid black;
+}
+
+article {
+    background-color: antiquewhite;
+    border: 3px solide black;
+}
+
+section {
+    background-color: antiquewhite;
+    border: 6px solid cadetblue;
+}
+
+h2 {
+    color: cadetblue;
+}
+
+h3 {
+    color: burlywood;
+}
