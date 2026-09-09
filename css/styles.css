@@ -1,3 +1,9 @@
 body {
     background-color: antiquewhite;
+    color:black;
+}
+nav {
+    background-color: bisque
+    color:black;
+    border: 6px solid black;
 }
