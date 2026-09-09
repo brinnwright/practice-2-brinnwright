@@ -51,3 +51,10 @@ h2 {
 h3 {
     color: burlywood;
 }
+
+footer {
+    background-color: black;
+    color: antiquewhite;
+    border: 6px solid cadetblue;
+    height: 260 px;
+}
