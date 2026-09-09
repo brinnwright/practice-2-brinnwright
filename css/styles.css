@@ -7,3 +7,19 @@ nav {
     currentColor black;
     border: 6px solid black;
 }
+
+header {
+    background-color: cadetblue;
+    color: antiquewhite;
+    border: 6px solid black;
+}
+
+img {
+    width: 420px;
+    height: 260px;
+    border: 6px solid antiquewhite;
+}
+
+h1 {
+    color: antiquewhite;
+}
